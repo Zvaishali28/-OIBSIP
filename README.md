@@ -19,7 +19,7 @@
 
 | Field | Details |
 | --- | --- |
-| **Name** | Vaishali |
+| **Name** | Vaishali Zade |
 | **Internship** | Oasis Infobyte Internship |
 | **Domain** | Data Science |
 | **Programming Language** | Python |
